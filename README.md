@@ -68,7 +68,7 @@
       src="https://img.shields.io/badge/ksw1912@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
-<div align="center">
+
 ![KimSeoWon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksw1912&show_icons=true&theme=radical) &nbsp
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksw1912&layout=compact)
-<div align="center">
+
