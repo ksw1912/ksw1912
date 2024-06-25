@@ -70,7 +70,6 @@
 </div>
 
 <br>
-<div align="center">
+
 ![KimSeoWon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksw1912&show_icons=true&theme=dark) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksw1912&layout=compact&theme=dark)
-<div align="center">
