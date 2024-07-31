@@ -8,8 +8,8 @@
 <h3 align="center">✨ Tech Stack ✨</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/dart-007396?style=flat-square&logo=dart&logoColor=blue"/>&nbsp
-  <img src="https://img.shields.io/badge/Flutter-4479A1?style=flat-square&logo=Flutter&logoColor=blue"/>&nbsp
+  <img src="https://img.shields.io/badge/dart-007396?style=flat-square&logo=dart&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Flutter-4479A1?style=flat-square&logo=Flutter&logoColor=white"/>&nbsp
 </div>
 
 <div align="center">
