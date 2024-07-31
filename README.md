@@ -6,6 +6,12 @@
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/dart-007396?style=flat-square&logo=dart&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Flutter-4479A1?style=flat-square&logo=Flutter&logoColor=white"/>&nbsp
+</div>
+
 <div align="center">
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp
