@@ -16,7 +16,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp
-   <img src="https://img.shields.io/badge/SpringBoot-4479A1?style=flat-square&logo=SpringBoot&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>&nbsp
+
 </div>
 
 <div align="center">
