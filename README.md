@@ -35,9 +35,10 @@
 <br>
 
 <h3 align="center">🖥️ Cloud 🖥️</h3>
-<img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp
-<img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp
 <div align="center">
+   <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp
+   <img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp
+</div>
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
