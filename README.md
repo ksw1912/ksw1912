@@ -1,4 +1,4 @@
-<!--내용 부분-->
+   <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 
 <div align="center">
@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Scikit--learn-ff4500.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Tensorflow-ff4500.svg?style=for-the-badge&logo=Tensorflow&logoColor=white" />&nbsp
 
 </div>
